@@ -2,7 +2,7 @@
 
 Automated application installer for Windows using PowerShell.
 
-# Currently available for installationl
+# Currently available for installation
 
 - Goggle Chrome;
 
