@@ -1,6 +1,6 @@
 # Windows App Installer
 
-Automated application installer for Windows using PowerShell.
+Automated application installer for Windows using Batch Script.
 
 # Currently available for installation
 
